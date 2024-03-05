@@ -1,2 +1,2 @@
 # DIP_21BCE5011
-a dip project on Exemplar-based Image Inpainting with  Multi-resolution Information and the  Graph Cut Technique
+Combining Median Filtering and Adaptive Switching Weight Mean Filter for Enhanced Salt-and-Pepper Noise Removal
